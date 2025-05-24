@@ -20,7 +20,7 @@ export default function Home() {
       } else {
         clearInterval(interval)
       }
-    }, 25)
+    }, 6)
   }
 
   const uploadAndTranscribe = async () => {
